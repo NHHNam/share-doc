@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "983421413321",
+    "project_id": "virtual-rarity-383701",
+    "storage_bucket": "virtual-rarity-383701.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983421413321:android:9b4c77a2d49d344f24ea18",
+        "android_client_info": {
+          "package_name": "com.sharedoc2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "983421413321-n1v27evm1evu12vq82d966temqf6519v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sharedoc2",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "983421413321-jha8m1n207ef1bu93qg82na2vlfds9di.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_zMYYTnmHotOxuzvm3gNx9hsoKthA1WE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "983421413321-4b9n2ae60alk2saeur165r6eorn87kb5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "983421413321-d5vvbv6knhjgfm4c4ld4p91hf5clkog6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.ShareDoc2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
