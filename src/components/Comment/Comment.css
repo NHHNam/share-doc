@@ -1,0 +1,17 @@
+.comment{
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+
+
+.name{
+    font-size: 1.2rem;
+    font-weight: 700;
+    color: #2258ff;
+}
+
+.time{
+    color: #b8b8b8;
+}
